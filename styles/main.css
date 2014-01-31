@@ -4,6 +4,15 @@
  }
 
 
+#left {
+	float: left;
+	padding: 5px;
+}
+
+#right {
+	float: right;
+}
+
 
 
 
